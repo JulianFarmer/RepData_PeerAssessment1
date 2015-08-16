@@ -1,6 +1,6 @@
 # Reproducible Research: Peer Assessment 1
 Julian Farmer  
-17th July 2015  
+16th August 2015  
 This R Markdown report investigates and analyses the data collected by personal activity monitor devices, namely the FitBit. The steps below, take the data from the .csv file through to the final conclusion, answering a number of questions.
 
 

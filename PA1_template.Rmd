@@ -1,7 +1,7 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: Julian Farmer
-date: 17th July 2015
+date: 16th August 2015
 output: 
   html_document:
     keep_md: true
